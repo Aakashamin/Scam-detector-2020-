@@ -1,3 +1,1 @@
-beta deployment link: http://aisywc.tk
-
-master branch: https://shashank-simha.github.io/AISYWC19/
+detects scam done by students during assignment submission
