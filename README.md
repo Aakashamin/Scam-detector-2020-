@@ -1,2 +1,3 @@
-# Scam-detector-2020-
-Detects the scams done by students in asssignments
+beta deployment link: http://aisywc.tk
+
+master branch: https://shashank-simha.github.io/AISYWC19/
